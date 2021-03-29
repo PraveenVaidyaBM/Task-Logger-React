@@ -1,0 +1,25 @@
+{
+  "logs": [
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "message": "deployed an application",
+      "attention": true,
+      "tech": "Praveen Vaidya",
+      "date": "2021-03-29T09:58:23.498Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Praveen",
+      "lastName": "Vaidya",
+      "id": 1
+    }
+  ]
+}
